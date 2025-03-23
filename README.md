@@ -111,3 +111,41 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/storyai.git
+   cd .\Story_Generator_Team_Null_Pointers\
+```
+
+  
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
+
+### 3️⃣ Setup Environment Variables
+Create a **`.env`** file in the root directory and add the following variables:
+```env
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=YOUR_PUBLISHABLE_KEY
+CLERK_SECRET_KEY=YOUR_SECRET_KEY
+
+NEXT_PUBLIC_GEMINI_API_KEY=YOUR_GEMINI_API_KEY
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+```
+
+> **Note:** Keep your `.env` file secure and never commit it to version control.
+
+📧 Support
+For any issues, feel free to create an Issue or contact us via email at:
+
+Team Name: Team NULL POINTERS
+
+Email:
+
+kshirsagarpravin.1111@gmail.com
+
+rutujd1111@gmail.com
+
+
+### Made with ❤️ by the team null pointers
