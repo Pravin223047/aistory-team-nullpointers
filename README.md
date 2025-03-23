@@ -108,13 +108,11 @@ Ensure you have the following installed:
 ### Setup
 
 1. Clone the repository:
-
-   ```bash
+```bash
    git clone https://github.com/your-username/storyai.git
-   cd .\Story_Generator_Team_Null_Pointers\
+   cd Story_Generator_Team_Null_Pointers
 ```
 
-  
 ### 2️⃣ Install Dependencies
 ```sh
 npm install
