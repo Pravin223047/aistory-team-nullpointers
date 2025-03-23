@@ -7,20 +7,16 @@
 StoryAI offers the following features:
 
 - **Create Story by Prompt**  
-  Easily generate a story by simply entering a prompt. The AI will create an engaging narrative based on your input.  
-  URL: `/createprompt`
+  Easily generate a story by simply entering a prompt. The AI will create an engaging narrative based on your input.
 
 - **Create User Decision Based Story**  
-  Build interactive stories where users can make decisions that influence the storyline. Create multiple story paths and outcomes based on user choices.  
-  URL: `/create-story`
+  Build interactive stories where users can make decisions that influence the storyline. Create multiple story paths and outcomes based on user choices.
 
 - **Create Audiobooks**  
-  Convert your generated stories into audiobooks, allowing you to listen to your stories on the go.  
-  URL: `/audiobooks`
+  Convert your generated stories into audiobooks, allowing you to listen to your stories on the go.
 
 - **Create Video Stories**  
-  Generate video stories that combine AI-generated narration, visuals, and animations, bringing your stories to life in video format.  
-  URL: `/videostories`
+  Generate video stories that combine AI-generated narration, visuals, and animations, bringing your stories to life in video format.
 
 ## Tech Stack
 
@@ -109,8 +105,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/storyai.git
-   cd Story_Generator_Team_Null_Pointers
+git clone https://github.com/your-username/storyai.git
+cd Story_Generator_Team_Null_Pointers
 ```
 
 ### 2️⃣ Install Dependencies
